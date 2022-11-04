@@ -29,3 +29,4 @@ Suatu ketika pak $@*^=! terpikirkan satu ide untuk membuat database berisikan pr
 - Wajib melampirkan subjek ketika pengiriman email: Kuis_DW_SI21C (tidak ada subjek dan keterangan maka nilai -50)
 - Format penamaan file: KuisDW_NPM_NAMA.pdf
 - record table dan jawaban sama maka nilai = 0
+- Deadline 23:59 WIB
