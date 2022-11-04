@@ -1,12 +1,12 @@
 # Soal Kuis Data Warehouse
 
 ### Deskripsi Soal
-Pak Ayan memiliki warung terbesar di desanya. Warung pak Ayan punya banyak barang yang menjawab segala kebutuhan masyarakat sekitar seperti makanan ringan berbagai jenis, perabotan rumah tangga, pakaian, kebutuhan dapur, kosmetik hingga obat-obatan. Namun pak Ayan merupakan seorang yang pelupa, bahkan suatu ketika ia pernah menjual mie instan rasa rendang dengan harga 25.000 yang seharusnya perbungkus dihargai 2.500. Hal itu justru mengakibatkan penurunan omset penjualan pada warung pak Ayan selama beberapa pekan serta berbagai gosip miring yang menjurus ke warungnya. 
-Suatu ketika pak Ayan terpikirkan satu ide untuk membuat database berisikan produk-produk yang ia jual diwarungnya dengan tujuan untuk memudahkan pengelolaan barang yang ia jual serta pencatatan stok barang. Namun pak Ayan meminta bantuan Anda untuk membuat dan menganalisis database pengelolaan barang untuk menaikan kembali omset di warungnya.
+Pak $@*^=! memiliki warung terbesar di desanya. Warung pak $@*^=! punya banyak barang yang menjawab segala kebutuhan masyarakat sekitar seperti makanan ringan berbagai jenis, perabotan rumah tangga, pakaian, kebutuhan dapur, kosmetik, barang elektronik hingga obat-obatan. Namun pak $@*^=! merupakan seorang yang pelupa, bahkan suatu ketika ia pernah menjual mie instan rasa rendang dengan harga 25.000 yang seharusnya perbungkus dihargai 2.500. Hal itu justru mengakibatkan penurunan omset penjualan pada warung pak $@*^=! selama beberapa pekan serta berbagai gosip miring yang menjurus ke warungnya. 
+Suatu ketika pak $@*^=! terpikirkan satu ide untuk membuat database berisikan produk-produk yang ia jual diwarungnya dengan tujuan untuk memudahkan pengelolaan barang yang ia jual serta pencatatan stok barang. Namun pak $@*^=! meminta bantuan Anda untuk membuat dan menganalisis database pengelolaan barang untuk menaikan kembali omset di warungnya.
 
 ### Format Database
 * Memiliki table kategori barang yang berisi ID kategori barang, tanggal masuk, tanggal keluar dan kategori barang.
-* Memiliki table barang yang berisi ID barang, nama, ID kategori barang, stok dan harga barang dengan jumlah minimal 15 produk yang tercatat pada table.
+* Memiliki table barang yang berisi ID barang, nama, ID kategori barang, stok dan harga barang dengan jumlah minimal 12 produk yang tercatat pada table.
 
 ### Format Hasil
 - Menampilkan seluruh isi pada table barang dan table kategori barang menggunakan join.
