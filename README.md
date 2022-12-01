@@ -1,32 +1,23 @@
-# Soal Kuis Data Warehouse
+# Soal UTS Data Warehouse
 
-### Deskripsi Soal
-Pak $@*^=! memiliki warung terbesar di desanya. Warung pak $@*^=! punya banyak barang yang menjawab segala kebutuhan masyarakat sekitar seperti makanan ringan berbagai jenis, perabotan rumah tangga, pakaian, kebutuhan dapur, kosmetik, barang elektronik hingga obat-obatan. Namun pak $@*^=! merupakan seorang yang pelupa, bahkan suatu ketika ia pernah menjual mie instan rasa rendang dengan harga 25.000 yang seharusnya perbungkus dihargai 2.500. Hal itu justru mengakibatkan penurunan omset penjualan pada warung pak $@*^=! selama beberapa pekan serta berbagai gosip miring yang menjurus ke warungnya. 
-Suatu ketika pak $@*^=! terpikirkan satu ide untuk membuat database berisikan produk-produk yang ia jual diwarungnya dengan tujuan untuk memudahkan pengelolaan barang yang ia jual serta pencatatan stok barang. Namun pak $@*^=! meminta bantuan Anda untuk membuat dan menganalisis database pengelolaan barang untuk menaikan kembali omset di warungnya.
+### Deskripsi Soal (NPM Genap)
+Buatlah 4 tabel dari studi kasus sistem point of sale (POS) dan implementasikan:
+* Masing-masing tabel memiliki primary key dan relasi dengan tabel lainnya
+* Minimal 3 view dan 3 store procedure
+* Minimal 1 function dan trigger
+* Normalisasi database pada salah satu tabel hingga tingkatan 3NF 
 
-### Format Database
-* Memiliki table kategori barang yang berisi ID kategori barang, tanggal masuk, tanggal keluar dan kategori barang.
-* Memiliki table barang yang berisi ID barang, nama, ID kategori barang, stok dan harga barang dengan jumlah minimal 12 produk yang tercatat pada table.
-
-### Format Hasil
-- Menampilkan seluruh isi pada table barang dan table kategori barang menggunakan join.
-- Menampilkan nama barang yang mengandung huruf ‘A’ atau ‘B’.
-- Menampilkan stok barang yang jumlahnya lebih dari 2.
-- Menampilkan harga barang dan kategori barang yang jumlahnya lebih dari sama dengan 10.000.
-- Mengurutkan nama barang secara ascending.
-- Menampilkan ID barang, nama barang, tanggal masuk, stok, tanggal keluar berdasarkan urutan harga barang secara descending.
-- Menampilkan ID barang, nama barang, tanggal masuk, stok, tanggal keluar berdasarkan produk yang masuk pada bulan ‘April’.
-- Menjumlahkan perkalian antara stok dan harga barang dan tampilkan secara ascending.
-
-### Hint:
-- Tentukan sendiri tipe data dan panjangnya dari setiap column.
-- Kategori barang harus sesuai dengan yang disebutkan pada deskripsi soal.
-- Kerjakan terlebih dahulu soal yang menurutmu paling mudah.
+### Deskripsi Soal (NPM Ganjil)
+Buatlah 4 tabel dari studi kasus sistem akademik dan implementasikan:
+* Masing-masing tabel memiliki primary key dan relasi dengan tabel lainnya
+* Minimal 3 view dan 3 store procedure
+* Minimal 1 function dan trigger
+* Normalisasi database pada salah satu tabel hingga tingkatan 3NF 
 
 ### Teknis Pengumpulan Soal
-- Tulis perintah SQL dan screenshot hasil perintah
-- Kirim jawaban ke email: ichwansholihin@teknokrat.ac.id
-- Wajib melampirkan subjek ketika pengiriman email: Kuis_DW_SI21C (tidak ada subjek dan keterangan maka nilai -50)
-- Format penamaan file: KuisDW_NPM_NAMA.pdf
+- Tulis perintah SQL dan screenshot hasil perintah serta hasil normalisasi database 1NF, 2NF, 3NF.
+- Kirim jawaban ke email: ichwansholihin03@gmail.com
+- Wajib melampirkan subjek ketika pengiriman email: UTS_DW_SI21C (tidak ada subjek dan keterangan maka nilai -50)
+- Format penamaan file: UTSDW_NPM_NAMA.pdf
 - record table dan jawaban sama maka nilai = 0
-- Deadline 23:59 WIB
+- Deadline 21:00 WIB
