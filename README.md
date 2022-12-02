@@ -1,7 +1,7 @@
 # Soal UTS Data Warehouse
 
 ### Deskripsi Soal (NPM Genap)
-Buatlah 4 tabel dari studi kasus sistem point of sale atau POS <b>(khusus NPM Genap)</b> dan sistem akademik <b>(khusus NPM Ganjil)</b> serta implementasikan:
+Buatlah beberapa tabel dari studi kasus sistem point of sale atau POS <b>(khusus NPM Genap)</b> dan sistem akademik <b>(khusus NPM Ganjil)</b> serta implementasikan:
 * Masing-masing tabel memiliki primary key dan relasi dengan tabel lainnya
 * Minimal 3 view dan 3 store procedure
 * Minimal 1 function dan trigger
