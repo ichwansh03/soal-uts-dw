@@ -13,4 +13,4 @@ Buatlah beberapa tabel dari studi kasus sistem point of sale atau POS <b>(khusus
 - Wajib melampirkan subjek ketika pengiriman email: UTS_DW_SI21C (tidak ada subjek dan keterangan maka nilai -50)
 - Format penamaan file: UTSDW_NPM_NAMA.pdf
 - record table dan jawaban sama maka nilai = 0
-- Deadline 21:00 WIB
+- Deadline 23:59 WIB
